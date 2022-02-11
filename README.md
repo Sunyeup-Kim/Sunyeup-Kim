@@ -1,4 +1,13 @@
-### Hi there 👋
+Profile
+=========
+
+Project
+========    
+<!--
+* Fracture incidence in children after developing atopic dermatitis or food allergy
+* Effect of colonscopy for preventing Colon Cancer among fourties (2020.12.18 ~ )
+-->
+* DSbookstore : used book trade platform only for Sejong.univ department of datascience students (2020.12.21 ~ 2021.02.20)  
 
 <!--
 **Sunyeup-Kim/Sunyeup-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
