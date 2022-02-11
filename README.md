@@ -8,8 +8,8 @@ Project
 * Effect of colonscopy for preventing Colon Cancer among fourties (2020.12.18 ~ )
 -->
 * DSbookstore : used book trade platform only for Sejong.univ department of datascience students (2020.12.21 ~ 2021.02.20)   
-play store : [Andriod][https://play.google.com/store/apps/details?id=com.martini.DSbookstore]
-facebook of student union : [Facebook][https://ar-ar.facebook.com/permalink.php?story_fbid=2915189342139858&id=1815815088743961]
+  ###play store : [Andriod](https://play.google.com/store/apps/details?id=com.martini.DSbookstore)
+  ###facebook of student union : [Facebook](https://ar-ar.facebook.com/permalink.php?story_fbid=2915189342139858&id=1815815088743961)
 
 <!--
 **Sunyeup-Kim/Sunyeup-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
