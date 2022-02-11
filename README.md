@@ -1,6 +1,6 @@
 Profile
 =========
-   
+* Sejong Univ. BS (~ing)
    
    
 Project
