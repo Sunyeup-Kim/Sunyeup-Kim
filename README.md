@@ -1,6 +1,6 @@
 Profile
 =========
-* Sejong Univ. BS (~ing)
+* Sejong Univ. BS in DataScience | Computer Engineering | Business Administartion(~ing)
    
    
 Project
