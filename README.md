@@ -5,14 +5,14 @@ Profile
    
 Project
 ========    
-<!--
-* Fracture incidence in children after developing atopic dermatitis or food allergy
-* Effect of colonscopy for preventing Colon Cancer among fourties (2020.12.18 ~ )
--->
 * DSbookstore : used book trade platform made only for Sejong Univ department of datascience students (2020.12.21 ~ 2021.02.20)   
    * github : [Github](https://github.com/yeseoLee/DSbookstore)  |  facebook of student union : [Facebook](https://ar-ar.facebook.com/permalink.php?story_fbid=2915189342139858&id=1815815088743961)
    * play store : [Andriod](https://play.google.com/store/apps/details?id=com.martini.DSbookstore)  |  app store : [IOS](https://github.com/Sunyeup-Kim/Sunyeup-Kim/blob/main/img/ios%EC%84%B1%EA%B3%B5.PNG)
 
+
+Research
+========    
+* Yon, Dong Keon; Lee, Seung Won; Shin, Youn Ho; SHIN, JAE IL; Kang, So Min; Abuabara, Katrina; Hwang, Jimin; U, Jung Shin; Noh, Hyungrye; **Kim, Sunyeup**; Heo, Chan Yeong; Koyanagi, Ai; Jacob, Louis; Smith, Lee; Ludvigsson, Jonas; Neurology; Turner, Steve; Shin, Ju-Young; Jeong, Han Eol; Kim, Jung-Hyun; Rhee, Sang Youl; Suh, Dong In; Cho, Seong Ho "Fracture incidence in children after developing atopic dermatitis: A Korean nationwide birth cohort study", Allergy(2022)
 <!--
 **Sunyeup-Kim/Sunyeup-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
