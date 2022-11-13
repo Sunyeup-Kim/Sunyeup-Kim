@@ -12,7 +12,7 @@ Project
 
 Research
 ========    
-* Yon, Dong Keon; Lee, Seung Won; Shin, Youn Ho; SHIN, JAE IL; Kang, So Min; Abuabara, Katrina; Hwang, Jimin; U, Jung Shin; Noh, Hyungrye; **Kim, Sunyeup**; Heo, Chan Yeong; Koyanagi, Ai; Jacob, Louis; Smith, Lee; Ludvigsson, Jonas; Neurology; Turner, Steve; Shin, Ju-Young; Jeong, Han Eol; Kim, Jung-Hyun; Rhee, Sang Youl; Suh, Dong In; Cho, Seong Ho "Fracture incidence in children after developing atopic dermatitis: A Korean nationwide birth cohort study", Allergy(2022)
+* Yon, Dong Keon; Lee, Seung Won; Shin, Youn Ho; SHIN, JAE IL; Kang, So Min; Abuabara, Katrina; Hwang, Jimin; U, Jung Shin; Noh, Hyungrye; **Kim, Sunyeup**; Heo, Chan Yeong; Koyanagi, Ai; Jacob, Louis; Smith, Lee; Ludvigsson, Jonas; Neurology; Turner, Steve; Shin, Ju-Young; Jeong, Han Eol; Kim, Jung-Hyun; Rhee, Sang Youl; Suh, Dong In; Cho, Seong Ho, "Fracture incidence in children after developing atopic dermatitis: A Korean nationwide birth cohort study", Allergy(2022)
 <!--
 **Sunyeup-Kim/Sunyeup-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
