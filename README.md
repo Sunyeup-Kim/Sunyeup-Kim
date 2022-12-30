@@ -1,6 +1,7 @@
 Profile
 =========
-* Sejong Univ. BS in DataScience | Computer Engineering | Business Administartion (2017.02.28 ~ )
+* Sejong Univ. BS in DataScience | Computer Engineering | Business Administartion (2017.02.28 ~ 2022.02)
+* Sungkyunkwan Univ. Integrated PhD program in Medical AI (2022.02 ~ )
    
    
 Project
